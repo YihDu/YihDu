@@ -2,7 +2,7 @@
 
 
 #### About me
-- :link: Read more about me at [Yihdu's Webpage](https://yihdu.github.io/).
-- :email: Feel free to contact me  [`duyihangzjj@163.com`](mailto:duyihangzjj@163.com) .
-- :writing_hand: Now I am working on multimodal large language model. 
+- Read more about me at [my website](https://yihdu.github.io).
+- Feel free to contact me: duyihangzjj[AT]163[DOT]com. 
+- Now I am working on multimodal large language model and computational biology.
 
